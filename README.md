@@ -1,3 +1,8 @@
+# Alteração 6.4.1
+ Foi seguida a seguinte recomendação para solucionar o problema da UIWebView
+ https://github.com/jeduan/cordova-plugin-facebook4/issues/857
+
+
 # cordova-plugin-facebook4
 
 > Use Facebook SDK in Cordova projects

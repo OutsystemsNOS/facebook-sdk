@@ -3,6 +3,10 @@
 
 ## Fix
 
+ Alteração 6.4.1
+ Foi seguida a seguinte recomendação para solucionar o problema da UIWebView
+ https://github.com/jeduan/cordova-plugin-facebook4/issues/857
+
 * **Android:** add a check to test if the access token is expired in order to fetch a new one if that would be the case ([#853](https://github.com/jeduan/cordova-plugin-facebook4/pull/853))
 
 <a name="6.3.0"></a>
